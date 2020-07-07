@@ -1,0 +1,6 @@
+
+
+function expensive() {
+  //#profile
+  return
+}
